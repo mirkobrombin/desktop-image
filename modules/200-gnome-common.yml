@@ -9,3 +9,4 @@ source:
   - rygel
   - webp-pixbuf-loader
   - yelp
+  - accountsservice
